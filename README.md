@@ -1,1 +1,1 @@
-# lcu-publc-web-vue-open-source
+# lcu-public-web-vue-open-source
