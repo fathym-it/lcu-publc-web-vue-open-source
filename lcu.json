@@ -1,7 +1,7 @@
 {
   "Package": {
-    "Name": "Vue Quickstart Project - Open Source",
-    "Description": "A basic template to quickly deploy a Vue app to Fathym.",
+    "Name": "Vue Starter - NPM Launch",
+    "Description": "A Vue starter app deployed to Fathym via an NPM package.",
     "Image": "https://www.fathym.com/img/vue.png",
     "PreviewImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
     "Intents":[
@@ -13,11 +13,11 @@
   },
   "Configurations": {
     "Full": {
-      "Name": "Vue Quickstart - Open Source",
-      "Description": "Vue Quickstart - Open Source",
+      "Name": "Vue Starter - NPM Launch",
+      "Description": "A Vue starter app deployed to Fathym via an NPM package.",
       "Phases": [
         {
-          "Name": "Setup Vue",
+          "Name": "Setting Up Vue Starter - NPM Launch",
           "Order": 1,
           "Asset": "vue"
         }
