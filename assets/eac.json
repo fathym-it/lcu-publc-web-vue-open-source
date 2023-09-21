@@ -2,8 +2,8 @@
   "Applications": {
     "$1": {
       "Application": {
-        "Description": "A basic starting point for sites built with Vue.",
-        "Name": "Vue Quickstart Project - Open Source"
+        "Description": "A Vue starter app deployed to Fathym via an NPM package.",
+        "Name": "Vue Starter - NPM Launch"
       },
       "LookupConfig": {
         "PathRegex": "/.*"

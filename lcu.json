@@ -1,7 +1,7 @@
 {
   "Package": {
-    "Name": "Vue Quickstart Project - Open Source",
-    "Description": "A basic template to quickly deploy a Vue app to Fathym.",
+    "Name": "Vue Starter - NPM Launch",
+    "Description": "A Vue starter app deployed to Fathym via an NPM package.",
     "Button": "Launch",
     "Image": "https://www.fathym.com/assets/images/logo.png",
     "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
